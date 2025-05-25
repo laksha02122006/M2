@@ -1,4 +1,6 @@
-# EX-06 - Looping
+# NAME:- V.B.LAKSHA
+## REGISTER NUMBER:- 212224220051
+## EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
 
